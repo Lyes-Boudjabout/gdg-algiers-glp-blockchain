@@ -1,6 +1,6 @@
-#  GDG Algiers GLP Blockchain 
+# 🚀 GDG Algiers GLP - Blockchain Track
 
-## 🔗 Workshop Title: Building Smart Contracts with Solidity & Foundry
+# 🔗 Workshop Title: Building Smart Contracts with Solidity & Foundry
 
 ## 👨‍🏫 Instructor: [Lyes Boudjabout](https://www.linkedin.com/in/lyes-boudjabout)
 ## 🎥 Recording: [Link to Session](https://glp.gdgalgiers.dev/content)
