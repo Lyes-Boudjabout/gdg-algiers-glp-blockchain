@@ -101,6 +101,7 @@ Welcome to the resources hub for this workshop. Below you’ll find curated refe
 - Remix IDE (Web IDE): https://remix.ethereum.org/
 - OpenZeppelin Contracts: https://github.com/OpenZeppelin/openzeppelin-contracts
 - Etherscan (Explorer): https://etherscan.io/
+- Licenses: https://opensource.org/licenses
 
 ──────────────────────────────────────────────
 
