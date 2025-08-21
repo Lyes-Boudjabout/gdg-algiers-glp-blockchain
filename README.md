@@ -94,25 +94,25 @@ Welcome to the resources hub for this workshop. Below you’ll find curated refe
 ### 🔹 Resources Links
 
 ──────────────────────────────────────────────
-- Solidity Docs: https://docs.soliditylang.org/
-- Foundry Book: https://book.getfoundry.sh/
-- Foundry Cheatsheet: https://milotruck.github.io/blog/Foundry-Cheatsheet/
-- Ethereum Docs: https://ethereum.org/en/developers/docs/
-- Remix IDE (Web IDE): https://remix.ethereum.org/
-- OpenZeppelin Contracts: https://github.com/OpenZeppelin/openzeppelin-contracts
-- Etherscan (Explorer): https://etherscan.io/
-- Licenses: https://opensource.org/licenses
+- **Solidity Docs:** https://docs.soliditylang.org/
+- **Foundry Book:** https://book.getfoundry.sh/
+- **Foundry Cheatsheet:** https://milotruck.github.io/blog/Foundry-Cheatsheet/
+- **Sepolia RPC URL API:** https://www.alchemy.com/
+- **Remix IDE (Web IDE):** https://remix.ethereum.org/
+- **OpenZeppelin Contracts:** https://github.com/OpenZeppelin/openzeppelin-contracts
+- **Etherscan (Explorer):** https://etherscan.io/
+- **Licenses:** https://opensource.org/licenses
 
 ──────────────────────────────────────────────
 
 ### 🔹 Other Learning Resources Links
 
 ──────────────────────────────────────────────
-- Cyfrin Updraft: https://updraft.cyfrin.io/
-- List of Web3 Education Resources By Alchemy: https://www.alchemy.com/dapps/best/web3-education-resources
-- CryptoZombies (Gamified learning): https://cryptozombies.io/
-- Solidity by Example: https://solidity-by-example.org/
-- Smart Contract Best Practices: https://consensys.github.io/smart-contract-best-practices/
+- **Cyfrin Updraft:** https://updraft.cyfrin.io/
+- **List of Web3 Education Resources By Alchemy:** https://www.alchemy.com/dapps/best/web3-education-resources
+- **CryptoZombies (Gamified learning):** https://cryptozombies.io/
+- **Solidity by Example:** https://solidity-by-example.org/
+- **Smart Contract Best Practices:** https://consensys.github.io/smart-contract-best-practices/
 
 ---
 
